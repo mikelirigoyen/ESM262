@@ -1,0 +1,8 @@
+---
+title: "Assignment1"
+author: "Mikel Irigoyen"
+date: "2/7/2022"
+output: html_document
+---
+
+hello

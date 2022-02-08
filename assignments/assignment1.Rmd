@@ -1,0 +1,14 @@
+---
+title: "assignment1"
+author: "Mikel Irigoyen"
+date: "2/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I want to get better with computing and more comfortbale with r. i took 206 over a year ago now and I feel like I have lost my coding/r skills already. if you dont use it you lose it. Really just hoping to pick up some skills that I can bring to whatever opportunity arises.
+
+## My data science background is pretty limited. Stats with Allison and I took data management with Frew last year as well.Outside of classes, I did a small side project for someone where I took answers from a survey and created word clouds using R which I really enjoyed.
